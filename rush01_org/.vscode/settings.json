@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"iterator": "c",
+		"type_traits": "c",
+		"typeinfo": "c"
+	}
+}
